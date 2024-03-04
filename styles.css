@@ -75,3 +75,7 @@ p{
     color: aliceblue;
 font-family:url(fonts/Remingtoned\ Type.ttf) ;
 }
+.nextpageimage{
+    display: flex;
+    justify-content: center;
+}
